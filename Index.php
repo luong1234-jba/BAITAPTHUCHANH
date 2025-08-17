@@ -10,5 +10,10 @@
     echo "<h1>Xin chào các bạn</h1>";
     echo "Xin chào, tôi là trần thị lương"
     ?>
+    <?php
+    $name = "Trần Thị Lương";
+    $age = 20;
+    $address = "Hà Nội";
+    ?>
 </body>
 </html>
